@@ -1,0 +1,8 @@
+C:\Users\Precision M6700\Desktop\controleDeGastos\back\controleDeGastos\obj\Debug\net10.0\controleDeGastos.csproj.AssemblyReference.cache
+C:\Users\Precision M6700\Desktop\controleDeGastos\back\controleDeGastos\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Precision M6700\Desktop\controleDeGastos\back\controleDeGastos\obj\Debug\net10.0\controleDeGastos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Precision M6700\Desktop\controleDeGastos\back\controleDeGastos\obj\Debug\net10.0\controleDeGastos.AssemblyInfoInputs.cache
+C:\Users\Precision M6700\Desktop\controleDeGastos\back\controleDeGastos\obj\Debug\net10.0\controleDeGastos.AssemblyInfo.cs
+C:\Users\Precision M6700\Desktop\controleDeGastos\back\controleDeGastos\obj\Debug\net10.0\controleDeGastos.csproj.CoreCompileInputs.cache
+C:\Users\Precision M6700\Desktop\controleDeGastos\back\controleDeGastos\obj\Debug\net10.0\controleDeGastos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Precision M6700\Desktop\controleDeGastos\back\controleDeGastos\obj\Debug\net10.0\controleDeGastos.MvcApplicationPartsAssemblyInfo.cache
